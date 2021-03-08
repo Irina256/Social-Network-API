@@ -50,7 +50,7 @@ use Insomnia core to create, find, update, and delete users and thoughts, and ad
 
 ### Example Screenshot:
 
-![Example](/images/Screenshot 2021-03-07 153418.png)
+![Example](/images/Example.png)
 
 ## Credits
 
