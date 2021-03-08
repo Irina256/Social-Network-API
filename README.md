@@ -52,6 +52,9 @@ use Insomnia core to create, find, update, and delete users and thoughts, and ad
 
 ![Example](/images/Example.png)
 
+### Walkthrough Video:
+https://drive.google.com/file/d/1wtmYjmQ3dcgbnsZvzRdzEue1jW35STDA/view?usp=sharing
+
 ## Credits
 
 Created by: [irina256](https://github.com/irina256)
